@@ -1,0 +1,69 @@
+# ChatBot README
+
+## Introduction
+This Python script implements a chatbot that provides answers to user questions using a knowledge base. The questions are based on the most common question/doubt received in the INCASÒL offices. The chatbot will support multiple languages, including Catalan, Spanish, and English (right now only Catalan is fully developed).
+
+Users can interact with the chatbot by asking questions, and the chatbot will provide answers from the knowledge base.
+
+## Prerequisites
+- Python 3.x installed on your system.
+- Import/Download numpy library.
+- Import/Download unidecode library.
+- Import/Download fuzzywuzzy library.
+- Import/Download FlaskWeb library.
+- Download the knowledge base JSON files for the desired languages (e.g., knowledge_base_cat.json, knowledge_base_esp.json, or knowledge_base_eng.json).
+
+## Features
+
+- **Multilingual Support**: The chatbot supports multiple languages, including Catalan, Spanish, and English. Users can select their preferred language from the dropdown menu.
+
+- **Fuzzy Matching**: The chatbot uses fuzzy string matching to find the best-matching question in its knowledge base for the user's input. This allows the chatbot to understand and respond to questions even if they are not an exact match.
+
+- **Web Interface**: The user interacts with the chatbot through a clean and user-friendly web interface. The conversation history is displayed in a chat-like format.
+
+## Getting Started
+1. Clone or download the code from the repository.
+
+2. Place your JSON files in the same directory as the script.
+
+3. Open a terminal and navigate to the directory where the script app.py is located.
+
+## Usage
+
+1. **Installation**: Make sure you have the required dependencies installed. You can install them using the following command:
+
+    ```bash
+    pip install Flask fuzzywuzzy unidecode
+    ```
+    
+3. **Run the Application**: Execute the following command to run the Flask application:
+
+    ```bash
+    python app.py
+    ```
+
+    The application will be accessible at `http://127.0.0.1:5000/` by default.
+
+4. **Interact with the Chatbot**: Open the web interface in your browser and start interacting with the chatbot. Enter your message in the input box, select your preferred language, and click "Enviar" (Send) to receive a response from the chatbot.
+
+## File Structure
+
+- `app.py`: Contains the Flask application and the backend logic for the chatbot.
+- `index.html`: HTML file defining the structure of the web interface.
+- `style.css`: CSS file containing styles for the web interface.
+
+## Dependencies
+
+- **Flask**: Web framework for building the web application.
+- **fuzzywuzzy**: Library for fuzzy string matching.
+- **unidecode**: Library for transliterating Unicode text into ASCII.
+
+## Configuration
+
+- The knowledge base for the chatbot is stored in separate JSON files for different languages (`knowledge_base_cat.json`, `knowledge_base_esp.json`, `knowledge_base_eng.json`).
+
+## Customization
+
+- You can customize the appearance of the web interface by modifying the styles in the `style.css` file.
+- Extend the knowledge base with additional questions and answers in the respective JSON files.
+
