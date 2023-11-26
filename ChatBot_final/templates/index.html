@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Web Interface</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        #chat-wrapper {
+            position: fixed;
+            bottom: 50px;
+            right: 10px;
+            width: 350px;
+            height: 450px;
+            background-color: #FFF6C7;
+            padding: 10px;
+            border-radius: 5px;
+            overflow: hidden;
+            border: 2px solid black;
+            display: flex;
+            flex-direction: column;
+        }
+
+        #chat-header {
+            background-color: #2C2828; /* Cambia el color según tus preferencias */
+            color: white;
+            border-radius: 5px 5px 0 0;
+            padding: 10px;
+            text-align: center;
+			font-family: "Helvetica Neue", Arial, sans-serif;
+        }
+
+        #chat-container {
+            flex-grow: 1;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column-reverse;
+        }
+
+        .message-container {
+            margin-bottom: 5px;
+        }
+
+        .user-message {			
+			max-width: 95%;
+			word-wrap: break-word;
+			border-radius: 5px;
+			padding: 10px;
+			margin-bottom: 5px;
+			background-color: #f2f2f2;
+			align-self: flex-strat; /* Cambiado de 'flex-start' a 'flex-end' */
+		}
+
+		.bot-message {
+			max-width: 95%;
+			word-wrap: break-word;
+			border-radius: 5px;
+			padding: 10px;
+			margin-bottom: 5px;
+			background-color: #4CAF50;
+			color: white;
+			align-self: flex-end; /* Cambiado de 'flex-end' a 'flex-start' */
+		}
+
+
+        #chat-form {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #fff;
+            border-top: 1px solid #ccc;
+        }
+
+        #user_message {
+            flex-grow: 1;
+            margin-right: 10px;
+        }
+
+        #opcion {
+            margin-right: 10px;
+        }
+
+        button {
+            cursor: pointer;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="chat-wrapper">
+        <div id="chat-header">Assistent Virtual INCASÓL</div>
+        <div id="chat-container"></div>
+        <form id="chat-form" method="post">
+            <input type="text" id="user_message" name="user_message" required>
+            <select id="opcion" name="opcion">
+                <option value="1">Català</option>
+                <option value="2">Español</option>
+                <option value="3">English</option>
+            </select>
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+			const form = document.getElementById('chat-form');
+			const chatContainer = document.getElementById('chat-container');
+
+			form.addEventListener('submit', function (event) {
+				event.preventDefault();
+
+				const formData = new FormData(form);
+
+				fetch('/get_response', {
+					method: 'POST',
+					body: formData
+				})
+				.then(response => response.json())
+				.then(data => {
+					const messageContainer = document.createElement('div');
+					messageContainer.classList.add('message-container');
+
+					if (data.user_message) {
+						const userMessage = document.createElement('div');
+						userMessage.classList.add('user-message');
+						userMessage.textContent = data.user_message;
+						messageContainer.appendChild(userMessage);
+					}
+
+					if (data.bot_response) {
+						const botMessage = document.createElement('div');
+						botMessage.classList.add('bot-message');
+						botMessage.textContent = data.bot_response;
+						messageContainer.appendChild(botMessage);
+					}
+
+					chatContainer.prepend(messageContainer);
+
+					document.querySelectorAll('.user-message').forEach(function(element) {
+						element.style.alignSelf = 'flex-end';
+					});
+
+					document.querySelectorAll('.bot-message').forEach(function(element) {
+						element.style.alignSelf = 'flex-start';
+					});
+
+
+					document.getElementById('user_message').value = '';
+				});
+			});
+		});
+
+    </script>
+</body>
+</html>

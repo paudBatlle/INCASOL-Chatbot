@@ -1,0 +1,1314 @@
+{
+  "questions": [
+  {
+  "question": "¿Cómo puedo obtener el número de control o de registro de mi fianza para poder tramitar la devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Cómo puedo acceder al número de control o registro de mi fianza para gestionar la devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Cuál es el procedimiento para obtener el número de control o registro de mi fianza para tramitar la devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Qué debo hacer para obtener el número de control o registro de mi fianza para solicitar la devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Dónde puedo encontrar el número de control o registro de mi fianza para iniciar el trámite de devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Existe alguna manera de consultar el número de control o registro de mi fianza para gestionar la devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Cómo puedo acceder a la información sobre el número de control o registro de mi fianza para la solicitud de devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Cuál es la manera adecuada de obtener el número de control o registro de mi fianza para tramitar la devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Es posible conocer el número de control o registro de mi fianza para la solicitud de devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Qué hay que hacer para obtener el número de control o registro de mi fianza para gestionar la devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+
+  {
+  "question": "¿Dónde puedo encontrar el número de control o registro de mi fianza para iniciar el trámite de devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Cómo puedo acceder a la información sobre el número de control o registro de mi fianza para la tramitación de la devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Cuál es la forma correcta de obtener el número de control o registro de mi fianza para la solicitud de devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Es posible saber el número de control o registro de mi fianza para la tramitación de la devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Qué necesito hacer para obtener el número de control o registro de mi fianza para iniciar el trámite de devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "¿Dónde se encuentra el número de control o registro de mi fianza para la solicitud de devolución?",
+  "answer": "Para obtener el número de control de fianza para iniciar el trámite de devolución, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "1"
+  },
+  {
+  "question": "Quiero saber si mi fianza está depositada",
+  "answer": "Para saber el estado de su fianza, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "2"
+  },
+  {
+  "question": "¿Cómo puedo comprobar si mi fianza ha sido depositada?",
+  "answer": "Para saber el estado de su fianza, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "2"
+  },
+  {
+  "question": "¿Cuál es la manera de saber si mi fianza está depositada?",
+  "answer": "Para saber el estado de su fianza, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "2"
+  },
+  {
+  "question": "¿Dónde puedo obtener información sobre la fianza que he depositado?",
+  "answer": "Para saber el estado de su fianza, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "2"
+  },
+  {
+  "question": "¿Existe alguna forma de saber si mi fianza está segura?",
+  "answer": "Para saber el estado de su fianza, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "2"
+  },
+  {
+  "question": "¿Cómo puedo confirmar si mi fianza ha sido depositada con éxito?",
+  "answer": "Para saber el estado de su fianza, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "2"
+  },
+  {
+  "question": "¿Cómo puedo saber si mi fianza está segura?",
+  "answer": "Para saber el estado de su fianza, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "2"
+  },
+  {
+  "question": "¿Es posible comprobar el estado de mi fianza?",
+  "answer": "Para saber el estado de su fianza, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "2"
+  },
+  {
+  "question": "¿Qué debo hacer para saber si mi fianza está depositada?",
+  "answer": "Para saber el estado de su fianza, acceda a la siguiente página web: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx.",
+  "code": "2"
+  },
+  {
+  "question": "¿Puedo realizar el trámite con mi certificado si no soy propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Puede una persona que no sea propietaria realizar el trámite con su certificado?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Es posible realizar el trámite con mi certificado si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Qué pasa si no soy el propietario y quiero realizar el trámite con mi certificado?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Qué pasa si no soy el titular, pero quiero hacer el trámite con mi certificado?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Está permitido utilizar mi certificado para realizar el trámite si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Puedo usar mi certificado para realizar el trámite aunque no sea el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Está permitido que una persona que no es el propietario haga el trámite con su certificado?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Puede alguien que no sea el propietario completar el trámite con su certificado?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Cómo puedo utilizar mi certificado para realizar el trámite si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Qué debo hacer si no soy el propietario pero quiero realizar el trámite con mi certificado?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Hay restricciones para utilizar mi certificado si no soy el propietario del trámite?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Es posible que una persona que no sea el propietario del trámite utilice su certificado?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Cómo puedo lograr hacer el trámite con mi certificado si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Está permitido que alguien que no sea el propietario utilice su certificado para el trámite?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "¿Qué debo hacer si quiero hacer el trámite con mi certificado y no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital.",
+  "code": "9"
+  },
+  {
+  "question": "He firmado un contrato de alquiler de una habitación, ¿qué debo hacer con la fianza?",
+  "answer": "La obligatoriedad de prestar fianza está prevista en el artículo 36 de la Ley de Arrendamientos Urbanos. Contrariamente a esto, el Código Civil, al regular el arrendamiento de bienes inmuebles, no dice nada sobre la obligación del arrendatario de entregar fianza al arrendador. En consecuencia, en el caso de que entendamos que el contrato de habitación está sujeto al Código Civil, la prestación de fianza no será exigible por ley, quedando esta decisión en la esfera de la autonomía de la voluntad de las partes contratantes.",
+  "code": "12"
+  },
+
+  {
+  "question": "¿Qué hacer con la fianza cuando he firmado un contrato de alquiler de una habitación?",
+  "answer": "La obligatoriedad de prestar fianza está prevista en el artículo 36 de la Ley de Arrendamientos Urbanos. Contrariamente a esto, el Código Civil, al regular el arrendamiento de bienes inmuebles, no dice nada sobre la obligación del arrendatario de entregar fianza al arrendador. En consecuencia, en el caso de que entendamos que el contrato de habitación está sujeto al Código Civil, la prestación de fianza no será exigible por ley, quedando esta decisión en la esfera de la autonomía de la voluntad de las partes contratantes.",
+  "code": "12"
+  },
+  {
+  "question": "¿Cuál es el origen de la fianza en un contrato de alquiler de una habitación?",
+  "answer": "La obligatoriedad de prestar fianza está prevista en el artículo 36 de la Ley de Arrendamientos Urbanos. Contrariamente a esto, el Código Civil, al regular el arrendamiento de bienes inmuebles, no dice nada sobre la obligación del arrendatario de entregar fianza al arrendador. En consecuencia, en el caso de que entendamos que el contrato de habitación está sujeto al Código Civil, la prestación de fianza no será exigible por ley, quedando esta decisión en la esfera de la autonomía de la voluntad de las partes contratantes.",
+  "code": "12"
+  },
+  {
+  "question": "¿Cuál es mi responsabilidad con respecto a la fianza en un contrato de alquiler de habitación?",
+  "answer": "La obligatoriedad de prestar fianza está prevista en el artículo 36 de la Ley de Arrendamientos Urbanos. Contrariamente a esto, el Código Civil, al regular el arrendamiento de bienes inmuebles, no dice nada sobre la obligación del arrendatario de entregar fianza al arrendador. En consecuencia, en el caso de que entendamos que el contrato de habitación está sujeto al Código Civil, la prestación de fianza no será exigible por ley, quedando esta decisión en la esfera de la autonomía de la voluntad de las partes contratantes.",
+  "code": "12"
+  },
+  {
+  "question": "¿Qué se espera de mí en relación con la fianza en un contrato de alquiler de habitación?",
+  "answer": "La obligatoriedad de prestar fianza está prevista en el artículo 36 de la Ley de Arrendamientos Urbanos. Contrariamente a esto, el Código Civil, al regular el arrendamiento de bienes inmuebles, no dice nada sobre la obligación del arrendatario de entregar fianza al arrendador. En consecuencia, en el caso de que entendamos que el contrato de habitación está sujeto al Código Civil, la prestación de fianza no será exigible por ley, quedando esta decisión en la esfera de la autonomía de la voluntad de las partes contratantes.",
+  "code": "12"
+  },
+  {
+  "question": "¿Cuál es mi deber en relación con la fianza en un contrato de alquiler de habitación?",
+  "answer": "La obligatoriedad de prestar fianza está prevista en el artículo 36 de la Ley de Arrendamientos Urbanos. Contrariamente a esto, el Código Civil, al regular el arrendamiento de bienes inmuebles, no dice nada sobre la obligación del arrendatario de entregar fianza al arrendador. En consecuencia, en el caso de que entendamos que el contrato de habitación está sujeto al Código Civil, la prestación de fianza no será exigible por ley, quedando esta decisión en la esfera de la autonomía de la voluntad de las partes contratantes.",
+  "code": "12"
+  },
+  {
+  "question": "¿Cuál es el papel de la fianza en un contrato de alquiler de habitación?",
+  "answer": "La obligatoriedad de prestar fianza está prevista en el artículo 36 de la Ley de Arrendamientos Urbanos. Contrariamente a esto, el Código Civil, al regular el arrendamiento de bienes inmuebles, no dice nada sobre la obligación del arrendatario de entregar fianza al arrendador. En consecuencia, en el caso de que entendamos que el contrato de habitación está sujeto al Código Civil, la prestación de fianza no será exigible por ley, quedando esta decisión en la esfera de la autonomía de la voluntad de las partes contratantes.",
+  "code": "12"
+  },
+  {
+  "question": "Soy un inquilino y me fui del piso, y el propietario no me devuelve la fianza DSB. ¿Qué puedo hacer?",
+  "answer": "Como parte del contrato, puedes realizar una Consulta sobre el estado de la fianza para conocer si la fianza se depositó en el Incasòl durante la vigencia del contrato. Además, puedes reclamar el importe de la fianza iniciando acciones judiciales contra la parte arrendadora. En cuanto a estas últimas, y como norma general, la reclamación de la fianza al arrendador por parte del arrendatario se realiza a través del juicio verbal siempre que la reclamación no supere los 6.000 €. La demanda correspondiente deberá presentarse ante el tribunal de la localidad donde está situada la finca arrendada.",
+  "code": "13"
+  },
+  {
+  "question": "Mi propietario no me devuelve la fianza DSB después de dejar el piso. ¿Qué debo hacer?",
+  "answer": "Como parte del contrato, puedes realizar una Consulta sobre el estado de la fianza para conocer si la fianza se depositó en el Incasòl durante la vigencia del contrato. Además, puedes reclamar el importe de la fianza iniciando acciones judiciales contra la parte arrendadora. En cuanto a estas últimas, y como norma general, la reclamación de la fianza al arrendador por parte del arrendatario se realiza a través del juicio verbal siempre que la reclamación no supere los 6.000 €. La demanda correspondiente deberá presentarse ante el tribunal de la localidad donde está situada la finca arrendada.",
+  "code": "13"
+  },
+  {
+  "question": "¿Qué puedo hacer si el propietario no me devuelve la fianza DSB después de irme del piso?",
+  "answer": "Como parte del contrato, puedes realizar una Consulta sobre el estado de la fianza para conocer si la fianza se depositó en el Incasòl durante la vigencia del contrato. Además, puedes reclamar el importe de la fianza iniciando acciones judiciales contra la parte arrendadora. En cuanto a estas últimas, y como norma general, la reclamación de la fianza al arrendador por parte del arrendatario se realiza a través del juicio verbal siempre que la reclamación no supere los 6.000 €. La demanda correspondiente deberá presentarse ante el tribunal de la localidad donde está situada la finca arrendada.",
+  "code": "13"
+  },
+  {
+  "question": "He dejado el piso y el propietario no me devuelve la fianza DSB. ¿Cuáles son mis derechos?",
+  "answer": "Como parte del contrato, puedes realizar una Consulta sobre el estado de la fianza para conocer si la fianza se depositó en el Incasòl durante la vigencia del contrato. Además, puedes reclamar el importe de la fianza iniciando acciones judiciales contra la parte arrendadora. En cuanto a estas últimas, y como norma general, la reclamación de la fianza al arrendador por parte del arrendatario se realiza a través del juicio verbal siempre que la reclamación no supere los 6.000 €. La demanda correspondiente deberá presentarse ante el tribunal de la localidad donde está situada la finca arrendada.",
+  "code": "13"
+  },
+  {
+  "question": "¿Qué pasos debo seguir si el propietario no me devuelve la fianza DSB después de irme del piso?",
+  "answer": "Como parte del contrato, puedes realizar una Consulta sobre el estado de la fianza para conocer si la fianza se depositó en el Incasòl durante la vigencia del contrato. Además, puedes reclamar el importe de la fianza iniciando acciones judiciales contra la parte arrendadora. En cuanto a estas últimas, y como norma general, la reclamación de la fianza al arrendador por parte del arrendatario se realiza a través del juicio verbal siempre que la reclamación no supere los 6.000 €. La demanda correspondiente deberá presentarse ante el tribunal de la localidad donde está situada la finca arrendada.",
+  "code": "13"
+  },
+  {
+  "question": "Me pide dos meses de fianza y quiero hacer un ingreso de solo un mes (caso arrendatario persona jurídica).",
+  "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que también debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (artículo 2 de la LAU). En consecuencia, solo se puede considerar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, motivo por el cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+  "code": "14"
+  },
+  {
+  "question": "Em demana dos mesos de fiança i vull fer un ingrés de només un mes (cas arrendatari persona jurídica).",
+  "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que también debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (artículo 2 de la LAU). En consecuencia, solo se puede considerar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, motivo por el cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+  "code": "14"
+  },
+  {
+  "question": "Puedo pagar solo un mes de fianza si soy una persona jurídica y estoy alquilando un inmueble?",
+  "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que también debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (artículo 2 de la LAU). En consecuencia, solo se puede considerar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, motivo por el cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+  "code": "14"
+  },
+  {
+  "question": "Puedo pagar solo un mes de fianza?",
+  "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que también debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (artículo 2 de la LAU). En consecuencia, solo se puede considerar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, motivo por el cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+  "code": "14"
+  },
+  {
+  "question": "¿Cuál es el importe de la fianza si soy una persona jurídica y quiero alquilar un inmueble y solo puedo pagar un mes?",
+  "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que también debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (artículo 2 de la LAU). En consecuencia, solo se puede considerar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, motivo por el cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+  "code": "14"
+  },
+  {
+  "question": "¿Cuál es la cantidad de la fianza si soy una persona jurídica y estoy alquilando un inmueble y solo quiero pagar un mes?",
+  "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que también debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (artículo 2 de la LAU). En consecuencia, solo se puede considerar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, motivo por el cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+  "code": "14"
+  },
+  {
+  "question": "Es posible depositar solo un mes de fianza si estoy alquilando un inmueble como persona jurídica?",
+  "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que también debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (artículo 2 de la LAU). En consecuencia, solo se puede considerar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, motivo por el cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+  "code": "14"
+  },
+  {
+  "question": "¿Qué se debe depositar como fianza si soy una persona jurídica que alquila un inmueble y solo puedo pagar un mes?",
+  "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que también debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (artículo 2 de la LAU). En consecuencia, solo se puede considerar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, motivo por el cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+  "code": "14"
+  },
+  {
+  "question": "Hemos cambiado al arrendatario del contrato. ¿Es necesario recuperar la fianza?",
+  "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. Si se mantiene el mismo contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es necesario notificarlo al Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "En caso de cambio de arrendatario en el contrato, ¿es necesario solicitar la devolución de la fianza?",
+  "answer": "Si se formaliza un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. En caso de mantener el mismo contrato y emitir un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es necesario notificarlo al Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat e indicando el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "¿Cuándo hay un cambio de arrendatario en el contrato, es necesario solicitar la devolución de la fianza?",
+  "answer": "Si se formaliza un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. Si se mantiene el mismo contrato y se emite un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es importante notificarlo al Incasòl mediante un correo electrónico a fiances.ingressos@gencat.cat e indicar el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "En caso de cambio de arrendatario en el contrato, ¿se debe solicitar la devolución de la fianza?",
+  "answer": "Si se formaliza un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. En el caso de mantener el mismo contrato y emitir un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es esencial notificarlo al Incasòl a través del correo electrónico fiances.ingressos@gencat.cat e indicar el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "Si cambiamos al arrendatario en el contrato, ¿es necesario recuperar la fianza?",
+  "answer": "Si se formaliza un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. Si se mantiene el mismo contrato y se genera un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es imprescindible notificarlo al Incasòl a través del correo electrónico fiances.ingressos@gencat.cat e indicar el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "En caso de cambiar al arrendatario en el contrato, ¿es necesario solicitar la devolución de la fianza?",
+  "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. Si se mantiene el mismo contrato y se emite un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es importante notificarlo al Incasòl mediante un correo electrónico a fiances.ingressos@gencat.cat e indicar el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "¿Qué sucede si cambiamos al arrendatario en el contrato? ¿Debemos recuperar la fianza?",
+  "answer": "Si se formaliza un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. En el caso de mantener el mismo contrato y emitir un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es importante notificarlo al Incasòl mediante un correo electrónico a fiances.ingressos@gencat.cat e indicar el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "¿Cuándo hay un cambio de arrendatario en el contrato, es requerido recuperar la fianza?",
+  "answer": "Si se formaliza un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. Si se mantiene el mismo contrato y se hace un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es imprescindible notificarlo al Incasòl a través del correo electrónico fiances.ingressos@gencat.cat e indicar el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "En caso de cambiar al arrendatario en el contrato, ¿es necesario recuperar la fianza?",
+  "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. Si se mantiene el mismo contrato y se emite un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es importante notificarlo al Incasòl mediante un correo electrónico a fiances.ingressos@gencat.cat e indicar el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "En caso de cambio de arrendatario en el contrato, ¿es necesario solicitar la devolución de la fianza?",
+  "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar una nueva. Si se mantiene el mismo contrato y se genera un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero es esencial notificarlo al Incasòl a través del correo electrónico fiances.ingressos@gencat.cat e indicar el NC (Número de control del documento de ingreso) o el número de registro de la fianza.",
+  "code": "15"
+  },
+  {
+  "question": "¿Cómo actualizar la fianza?",
+  "answer": "Si has firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar completamente la nueva. Si mantienes el mismo contrato, debes realizar el trámite de actualización de la fianza.",
+  "code": "17"
+  },
+  {
+  "question": "¿Cómo puedo actualizar la fianza?",
+  "answer": "Si has firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar completamente la nueva. Si mantienes el mismo contrato, debes realizar el procedimiento de actualización de la fianza. Puedes encontrar más información en el enlace del archivo de ayuda sobre la actualización (que aún no está disponible en la web).",
+  "code": "17"
+  },
+  {
+  "question": "Necesito actualizar la fianza. ¿Cómo lo hago?",
+  "answer": "Si has firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar completamente la nueva. Si mantienes el mismo contrato, debes completar el trámite de actualización de la fianza. Puedes encontrar más detalles en el enlace del archivo de ayuda sobre la actualización (que aún no está disponible en la web).",
+  "code": "17"
+  },
+  {
+  "question": "¿Qué debo hacer para actualizar la fianza?",
+  "answer": "Si has firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar completamente la nueva. Si mantienes el mismo contrato, debes realizar el trámite de actualización de la fianza. Puedes encontrar más información en el enlace del archivo de ayuda sobre la actualización (que aún no está disponible en la web).",
+  "code": "17"
+  },
+  {
+  "question": "Para comenzar la actualización de la fianza, ¿qué debo hacer?",
+  "answer": "Si has firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar completamente la nueva. Si mantienes el mismo contrato, debes completar el trámite de actualización de la fianza. Puedes encontrar más detalles en el enlace del archivo de ayuda sobre la actualización (que aún no está disponible en la web).",
+  "code": "17"
+  },
+  {
+  "question": "¿Cómo puedo actualizar mi fianza de alquiler?",
+  "answer": "Si has firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar completamente la nueva. Si mantienes el mismo contrato, debes llevar a cabo el procedimiento de actualización de la fianza. Puedes encontrar más información en el enlace del archivo de ayuda sobre la actualización (que aún no está disponible en la web).",
+  "code": "17"
+  },
+  {
+  "question": "Necesito actualizar la fianza de mi contrato. ¿Qué debo hacer?",
+  "answer": "Si has firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar completamente la nueva. Si mantienes el mismo contrato, debes completar el trámite de actualización de la fianza. Puedes encontrar más detalles en el enlace del archivo de ayuda sobre la actualización (que aún no está disponible en la web).",
+  "code": "17"
+  },
+  {
+  "question": "¿Cuál es la manera de hacer la actualización de la fianza?",
+  "answer": "Si has firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar completamente la nueva. Si mantienes el mismo contrato, debes realizar el trámite de actualización de la fianza. Puedes encontrar más detalles en el enlace del archivo de ayuda sobre la actualización (que aún no está disponible en la web).",
+  "code": "17"
+  },
+  {
+  "question": "Para la actualización de la fianza, ¿qué debo hacer?",
+  "answer": "Si has firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar completamente la nueva. Si mantienes el mismo contrato, debes realizar el trámite de actualización de la fianza. Puedes encontrar más detalles en el enlace del archivo de ayuda sobre la actualización (que aún no está disponible en la web).",
+  "code": "17"
+  },
+  {
+  "question": "Hola",
+  "answer": "Hola, ¿en qué puedo ayudarte?",
+  "code": "0"
+  },
+  {
+  "question": "Hola, tengo una duda",
+  "answer": "Hola, escribe tu duda aquí e intentaré resolverla",
+  "code": "0"
+  },
+  {
+  "question": "Tengo una duda",
+  "answer": "Escribe tu duda aquí e intentaré resolverla",
+  "code": "0"
+  },
+  {
+  "question": "¿Me puedes ayudar?",
+  "answer": "¡Claro, escribe aquí tu pregunta!",
+  "code": "0"
+  },
+  {
+  "question": "Necesito ayuda",
+  "answer": "No hay problema, escribe aquí tu pregunta",
+  "code": "0"
+  },
+  {
+  "question": "¿Cómo funciona esto?",
+  "answer": "Esto funciona de la siguiente manera. Haz una pregunta y trataré de ayudarte.",
+  "code": "0"
+  },
+  {
+  "question": "Buenas tardes",
+  "answer": "Buenas tardes, ¿en qué puedo ayudarte?",
+  "code": "0"
+  },
+
+  {
+  "question": "Buen día",
+  "answer": "Buen día, ¿en qué puedo ayudarte?",
+  "code": "0"
+  },
+  {
+  "question": "Buenas noches",
+  "answer": "Buenas noches, ¿en qué puedo ayudarte?",
+  "code": "0"
+  },
+  {
+  "question": "Buen mediodía",
+  "answer": "Buen mediodía, ¿en qué puedo ayudarte?",
+  "code": "0"
+  },
+  {
+  "question": "Saludos",
+  "answer": "¡Saludos! ¿Cómo puedo ayudarte hoy?",
+  "code": "0"
+  },
+  {
+  "question": "Buen día",
+  "answer": "Buen día, ¿en qué puedo ayudarte?",
+  "code": "0"
+  },
+  {
+  "question": "¿Hay alguien aquí?",
+  "answer": "Sí, estoy aquí para ayudarte. ¿Cómo puedo ayudarte?",
+  "code": "0"
+  },
+  {
+  "question": "Hola, chatbot",
+  "answer": "Hola, ¿cómo puedo ayudarte hoy?",
+  "code": "0"
+  },
+  {
+  "question": "¿Qué puedes hacer?",
+  "answer": "Puedo responder preguntas, proporcionar información y ayudarte en lo que necesites. ¿Cómo puedo ayudarte?",
+  "code": "0"
+  },
+  {
+  "question": "Me siento perdido",
+  "answer": "No te preocupes, estoy aquí para ayudarte a encontrar lo que necesitas. ¿Cómo puedo ayudarte?",
+  "code": "0"
+  },
+  {
+  "question": "Necesito ayuda",
+  "answer": "¡Claro! Estoy aquí para ayudarte. ¿Cómo puedo ayudarte hoy?",
+  "code": "0"
+  },
+  {
+  "question": "Necesito ayuda con una pregunta",
+  "answer": "Formula tu pregunta y trataré de ayudarte",
+  "code": "0"
+  },
+  {
+  "question": "Tengo otra pregunta",
+  "answer": "¿Cuál es tu pregunta?",
+  "code": "0"
+  },
+  {
+  "question": "Tengo una pregunta",
+  "answer": "Escribe tu pregunta y trataré de ayudarte",
+  "code": "0"
+  },
+  {
+  "question": "Gracias, tengo otra pregunta",
+  "answer": "Escribe tu pregunta aquí e intentaré ayudarte",
+  "code": "0"
+  },
+  {
+  "question": "Hola, ¿puedes ayudarme?",
+  "answer": "Por supuesto, escribe aquí tu pregunta",
+  "code": "0"
+  },
+
+
+  {
+  "question": "¿Qué pasos debo seguir para presentar un certificado sobre el estado de la fianza ante un organismo?",
+  "answer": "Para obtener el Número de Registro de la fianza para realizar cualquier trámite, accede a la Consulta del Registro de fianzas (https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx). Como parte contractual, para obtener un certificado acreditativo de la fianza de un contrato de arrendamiento como comprobante o para presentar en otros organismos, descarga y completa la Solicitud de certificado informativo de la fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sollicituds_fiances/Solicitud_Certificat_Informatiu.pdf) que, junto con la documentación indicada en la hoja 2, deberás enviar a:\n - Correo electrónico: fiances.ingressos@gencat.cat\n - Correo postal: dirigido a la Coordinación de Fianzas de l'INCASÓL",
+  "code": "3"
+  },
+  {
+  "question": "¿Cómo puedo obtener un certificado sobre el estado de la fianza para presentar ante un organismo?",
+  "answer": "Para obtener el Número de Registro de la fianza para realizar cualquier trámite, accede a la Consulta del Registro de fianzas (https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx). Como parte contractual, para obtener un certificado acreditativo de la fianza de un contrato de arrendamiento como comprobante o para presentar en otros organismos, descarga y completa la Solicitud de certificado informativo de la fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sollicituds_fiances/Solicitud_Certificat_Informatiu.pdf) que, junto con la documentación indicada en la hoja 2, deberás enviar a:\n - Correo electrónico: fiances.ingressos@gencat.cat\n - Correo postal: dirigido a la Coordinación de Fianzas de l'INCASÓL",
+  "code": "3"
+  },
+  {
+  "question": "¿Qué debo hacer para obtener un certificado sobre el estado de la fianza para presentarlo ante un organismo?",
+  "answer": "Para obtener el Número de Registro de la fianza para realizar cualquier trámite, accede a la Consulta del Registro de fianzas (https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx). Como parte contractual, para obtener un certificado acreditativo de la fianza de un contrato de arrendamiento como comprobante o para presentar en otros organismos, descarga y completa la Solicitud de certificado informativo de la fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sollicituds_fiances/Solicitud_Certificat_Informatiu.pdf) que, junto con la documentación indicada en la hoja 2, deberás enviar a:\n - Correo electrónico: fiances.ingressos@gencat.cat\n - Correo postal: dirigido a la Coordinación de Fianzas de l'INCASÓL",
+  "code": "3"
+  },
+  {
+  "question": "¿Cómo puedo solicitar un certificado sobre el estado de la fianza para presentarlo ante un organismo?",
+  "answer": "Para obtener el Número de Registro de la fianza para realizar cualquier trámite, accede a la Consulta del Registro de fianzas (https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx). Como parte contractual, para obtener un certificado acreditativo de la fianza de un contrato de arrendamiento como comprobante o para presentar en otros organismos, descarga y completa la Solicitud de certificado informativo de la fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sollicituds_fiances/Solicitud_Certificat_Informatiu.pdf) que, junto con la documentación indicada en la hoja 2, deberás enviar a:\n - Correo electrónico: fiances.ingressos@gencat.cat\n - Correo postal: dirigido a la Coordinación de Fianzas de l'INCASÓL",
+  "code": "3"
+  },
+  {
+  "question": "¿Cuáles son los pasos para solicitar un certificado sobre el estado de la fianza para presentarlo ante un organismo?",
+  "answer": "Para obtener el Número de Registro de la fianza para realizar cualquier trámite, accede a la Consulta del Registro de fianzas (https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx). Como parte contractual, para obtener un certificado acreditativo de la fianza de un contrato de arrendamiento como comprobante o para presentar en otros organismos, descarga y completa la Solicitud de certificado informativo de la fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sollicituds_fiances/Solicitud_Certificat_Informatiu.pdf) que, junto con la documentación indicada en la hoja 2, deberás enviar a:\n - Correo electrónico: fiances.ingressos@gencat.cat\n - Correo postal: dirigido a la Coordinación de Fianzas de l'INCASÓL",
+  "code": "3"
+  },
+  {
+  "question": "¿Què se debe hacer para solicitar un certificado sobre el estado de la fianza para presentarlo ante un organismo?",
+  "answer": "Para obtener el Número de Registro de la fianza para realizar cualquier trámite, accede a la Consulta del Registro de fianzas (https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx). Como parte contractual, para obtener un certificado acreditativo de la fianza de un contrato de arrendamiento como comprobante o para presentar en otros organismos, descarga y completa la Solicitud de certificado informativo de la fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sollicituds_fiances/Solicitud_Certificat_Informatiu.pdf) que, junto con la documentación indicada en la hoja 2, deberás enviar a:\n - Correo electrónico: fiances.ingressos@gencat.cat\n - Correo postal: dirigido a la Coordinación de Fianzas de l'INCASÓL",
+  "code": "3"
+  },
+  {
+  "question": "¿Cómo puedo obtener una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Qué pasos se deben seguir para conseguir una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Qué debo hacer para obtener una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Cómo puedo obtener una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Qué pasos debo seguir para obtener una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "Necesito obtener una copia del contrato",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Cómo puedo solicitar una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Cuál es la manera de obtener una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Dónde puedo encontrar el procedimiento para obtener una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Existe alguna opción para conseguir una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Cómo puedo obtener información sobre cómo obtener una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Qué debo hacer para solicitar una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Existe algún formulario específico para conseguir una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Cómo puedo acceder a la solicitud de copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Cuál es la vía para conseguir una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "Necesito obtener una copia del contrato",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Cómo puedo conseguir una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Qué debo hacer para conseguir una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Cómo puedo obtener una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Qué pasos debo seguir para obtener una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Qué se debe hacer para conseguir una copia del contrato?",
+  "answer": "Para obtener una copia del contrato, debes marcar esta opción en el formulario de Solicitud de Certificado Informativo de la Fianza (https://incasol.gencat.cat/web/.content/01_home_continguts/2-serveis_i_tramits/fiances/Sol·licituds_fiances/Solicitud_Certificat_Informatiu.pdf): https://gyazo.com/035c80e36da71961901797556f2c3693",
+  "code": "4"
+  },
+  {
+  "question": "¿Quiero saber si la finca ha sido alquilada en los últimos 5 años? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y deseas obtener información relacionada con los datos que figuran en el Registro de Fianzas, descarga y completa la Solicitud de datos del Registro de Fianzas.\nLa solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol-licitud-de-dades-del-registre-de-fiances).\nRecibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Cómo puedo saber si la finca ha sido alquilada en los últimos 5 años? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes un interés legítimo en obtener información relacionada con los datos que figuran en el Registro de Fianzas, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol-licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Qué debo hacer para saber si la finca ha sido alquilada en los últimos 5 años? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes un interés legítimo en obtener información relacionada con los datos que figuran en el Registro de Fianzas, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol-licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Cómo puedo saber si la finca ha sido alquilada en los últimos 5 años? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes un interés legítimo en obtener información relacionada con los datos que figuran en el Registro de Fianzas, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol-licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Qué pasos debo seguir para saber si la finca ha sido alquilada en los últimos 5 años? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes un interés legítimo en obtener información relacionada con los datos que figuran en el Registro de Fianzas, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol-licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Qué debo hacer para saber si la finca ha sido alquilada en los últimos 5 años? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes un interés legítimo en obtener información relacionada con los datos que figuran en el Registro de Fianzas, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol-licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Cómo puedo saber si la finca ha sido alquilada recientemente? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes un interés legítimo en obtener información sobre alquileres recientes de la finca, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol-licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Qué debo hacer para obtener información sobre el alquiler de la finca? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes interés legítimo en obtener información sobre alquileres de la finca, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol-licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Cómo puedo saber si la propiedad ha sido alquilada? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes interés legítimo en obtener información sobre alquileres de la propiedad, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol.licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Cómo puedo obtener información sobre los alquileres anteriores de la finca? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes interés legítimo en obtener información sobre los alquileres anteriores de la finca, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol.licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Qué debo hacer para conocer los alquileres pasados de la finca? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes interés legítimo en obtener información sobre los alquileres pasados de la finca, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol.licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Cómo puedo saber si la finca ha sido alquilada recientemente? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes interés legítimo en obtener información sobre alquileres recientes de la finca, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol.licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Qué debo hacer para obtener información sobre el alquiler de la finca? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes interés legítimo en obtener información sobre alquileres de la finca, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol.licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+  "question": "¿Cómo puedo saber si la propiedad ha sido alquilada? (peticiones con interés legítimo)",
+  "answer": "Si no eres parte de un contrato de arrendamiento y tienes interés legítimo en obtener información sobre alquileres de la propiedad, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol.licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+  "code": "5"
+  },
+  {
+      "question": "¿Cómo puedo obtener información sobre los alquileres anteriores de la finca? (peticiones con interés legítimo)",
+      "answer": "Si no eres parte de un contrato de arrendamiento y tienes interés legítimo en obtener información sobre alquileres de la propiedad, descarga y completa la Solicitud de datos del Registro de Fianzas. La solicitud, junto con la documentación indicada, envíala por correo electrónico a la bandeja dadesregistre.incasol@gencat.cat indicando en el asunto la referencia 'Solicitud de datos' (https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/#sol.licitud-de-dades-del-registre-de-fiances). Recibirás la respuesta por correo electrónico.",
+      "code": "5"
+  },
+  {
+  "question": "¿Cómo puedo realizar el depósito de la fianza de forma efectiva?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. \n Para realizar el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. \n Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cuáles son las opciones disponibles para realizar el depósito de la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. \n Para realizar el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. \n Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cuáles son las opciones disponibles para realizar el depósito de la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. \n Para realizar el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. \n Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cuál es el procedimiento para realizar el depósito de la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. \n Para realizar el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. \n Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Puedes explicarme cómo hacer el depósito de la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. \n Para realizar el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. \n Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cómo es posible realizar el depósito de la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. Para realizar el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): personas jurídicas, entidades sin personalidad jurídica, quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.), aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cuáles son los pasos para hacer el pago de la fianza en línea?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y el archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. Para el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): personas jurídicas, entidades sin personalidad jurídica, quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.), aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cómo puedo hacer el pago de la fianza de manera eficaz?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y el archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances_de_lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. Para el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): personas jurídicas, entidades sin personalidad jurídica, quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.), aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cómo puedo realizar el pago de la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y el archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. Para el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): personas jurídicas, entidades sin personalidad jurídica, quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.), aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Dónde puedo realizar el pago de la fianza de manera efectiva?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y el archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. Para el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): personas jurídicas, entidades sin personalidad jurídica, quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.), aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cómo puedo pagar de manera eficiente la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y el archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. Para el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): personas jurídicas, entidades sin personalidad jurídica, quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.), aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cómo se realiza el depósito de la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. \n Para realizar el trámite presencial, debes ir a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. \n Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (Administradores de fincas, Agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Quienes representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Cuáles son los pasos para realizar el depósito de la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. \n Para realizar el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. \n Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "¿Dónde y cómo puedo depositar la fianza?",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. \n Para realizar el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. \n Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+  {
+  "question": "Explícame cómo puedo realizar el depósito de la fianza.",
+  "answer": "Para realizar el depósito de la fianza por internet, puedes ver un tutorial interactivo y un archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/. \n Para realizar el trámite presencial, debes dirigirte a las Cámaras de la Propiedad Urbana y a la OAC, con el formulario modelo 2 presentado en línea. \n Ten en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (administradores de fincas, agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Aquellos que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+  "code": "6"
+  },
+
+  {
+  "question": "¿Puedo realizar el trámite con mi certificado si no soy propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Puedo realizar el trámite con mi certificado si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Puede un tercero con identificación digital realizar el trámite en lugar del propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿El trámite se puede hacer con un certificado digital si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Es posible hacer el trámite con un certificado digital si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Puedo utilizar un certificado digital si no soy el propietario para este trámite?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Cualquier persona con un certificado digital puede realizar el trámite en nombre de otro?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Puede un tercero con un certificado digital hacer el trámite en lugar del propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿El trámite se puede completar con un certificado digital si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Es factible realizar el trámite con un certificado digital si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Puedo gestionar el trámite con mi certificado si no soy propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Puede un tercero con identificación digital hacer el trámite en lugar del propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Se puede utilizar un certificado digital si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Qué pasa si no soy el propietario y quiero hacer el trámite con un certificado digital?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Cómo puedo utilizar un certificado digital si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Es posible hacer uso de un certificado digital si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Qué tipo de certificado se requiere si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Puede un tercero usar su certificado digital para hacer el trámite en lugar del propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Qué tipo de certificado digital se necesita si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Se requiere algún tipo específico de certificado digital si no soy el propietario?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Cuál es la política sobre el uso de certificados digitales por terceros?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+  {
+  "question": "¿Puedo pedirle a un amigo que utilice su certificado digital en mi nombre?",
+  "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+  "code": "9"
+  },
+
+  {
+  "question": "He adquirido una propiedad. ¿Cuál es el procedimiento adecuado para gestionar la fianza?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+  "question": "Recientemente me convertí en propietario de un terreno. ¿Cuál es el proceso para gestionar la fianza en esta situación?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+  "question": "He heredado una propiedad. ¿Qué debo hacer con la fianza relacionada con ella?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+  "question": "Compré una finca como inversión. ¿Cuáles son las consideraciones importantes relacionadas con la fianza en este caso?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+  "question": "Me convertí en propietario de una finca. ¿Cuáles son las implicaciones fiscales relacionadas con la fianza?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+  "question": "Recibí una propiedad como herencia y tengo dudas sobre qué hacer con la fianza. ¿Puede proporcionarme orientación en esta cuestión?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+  "question": "He comprado/heredado una finca. ¿Qué debo hacer con la fianza?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+  "question": "Compro una vivienda. ¿Qué procedimiento debe seguir para gestionar la fianza?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+  "question": "Recientemente, heredé una propiedad. ¿Cuál es el protocolo para tratar la fianza asociada?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+  "question": "He comprado una finca rural. ¿Qué pasos debo seguir en relación con la fianza?",
+  "answer": "Con carácter general, es necesario aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías:\nPor correo electrónico, en un archivo adjunto en formato PDF.\nPor correo postal, dirigido al INCASÒL.\nSi el contrato de arrendamiento se ha extinguido y desea solicitar la devolución de la fianza:\nPreviamente deberá enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas.\nUna vez realizado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrá iniciar el trámite en línea de la Devolución de fianza.",
+  "code": "16"
+  },
+  {
+      "question": "Hemos cambiado al arrendatario del contrato. ¿Es necesario recuperar la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "En el caso de cambio de arrendatario, ¿se debe devolver la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "Si cambiamos al inquilino del contrato, ¿es necesario solicitar la devolución de la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "Cuando hay un cambio de arrendatario, ¿se debe solicitar la devolución de la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "En caso de cambio de inquilino, ¿es necesario solicitar la devolución de la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "Cuando se produce un cambio en el arrendatario, ¿se debe devolver la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "Si cambiamos al arrendatario del contrato, ¿se debe devolver la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "En el caso de cambio de arrendatario, ¿se debe solicitar la devolución de la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "Hemos modificado al inquilino del contrato. ¿Qué hay que hacer con la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "En el caso de cambio de arrendatario, ¿se debe devolver la fianza?",
+      "answer": "Si se firma un nuevo contrato, es necesario solicitar la devolución de la fianza del contrato anterior y depositar la nueva.\nSi se mantiene el contrato y se realiza un documento de cambio de arrendatario, no es necesario recuperar la fianza, pero se debe notificar a l’Incasòl enviando un correo electrónico a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza.",
+      "code": "15"
+  },
+  {
+      "question": "Me piden dos meses de fianza y quiero ingresar solo un mes (caso arrendatario persona jurídica)",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que, además, debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptualizar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último supuesto será de dos mensualidades de renta.",
+      "code": "15"
+  },
+  {
+      "question": "Si me piden dos meses de fianza, ¿puedo depositar solo un mes (caso arrendatario persona jurídica)?",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que además debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+      "code": "14"
+  },
+  {
+      "question": "En un contrato con arrendatario persona jurídica, ¿cómo puedo gestionar la fianza si solo quiero depositar un mes en lugar de dos?",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que además debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último supuesto será de dos mensualidades de renta.",
+      "code": "14"
+  },
+  {
+      "question": "Quiero alquilar un local para mi negocio y me piden dos meses de fianza. ¿Puedo depositar solo un mes?",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que además debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último supuesto será de dos mensualidades de renta.",
+      "code": "14"
+  },
+  {
+      "question": "¿Qué puedo hacer si como arrendatario persona jurídica me piden dos meses de fianza y solo quiero pagar un mes?",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que además debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+      "code": "14"
+  },
+  {
+      "question": "Tengo un negocio y me han solicitado dos meses de fianza para el arrendamiento. ¿Puedo pagar solo un mes?",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que además debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último supuesto será de dos mensualidades de renta.",
+      "code": "14"
+  },
+  {
+      "question": "¿Cómo puedo negociar la cantidad de la fianza en un contrato de arrendamiento como persona jurídica?",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que además debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último supuesto será de dos mensualidades de renta.",
+      "code": "14"
+  },
+  {
+      "question": "Estoy alquilando un local como persona jurídica y me han pedido dos meses de fianza. ¿Puedo reducirlo a un mes?",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que además debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último supuesto será de dos mensualidades de renta.",
+      "code": "14"
+  },
+  {
+      "question": "Cuando se requieren dos meses de fianza para el arrendamiento y solo puedo pagar uno, ¿cómo puedo proceder (caso arrendatario persona jurídica)?",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que además debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+      "code": "14"
+  },
+  {
+      "question": "¿Cómo puedo abordar la cuestión de la fianza cuando me piden dos meses y solo quiero pagar uno (arrendatario persona jurídica)?",
+      "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que además debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último caso será de dos mensualidades de renta.",
+      "code": "14"
+  },
+  {
+      "question": "¿Qué importe de fianza debo ingresar?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+  {
+      "question": "¿Cuánto debo depositar como fianza?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+  {
+      "question": "¿Cómo sé el importe de la fianza que debo pagar?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+  {
+      "question": "¿Qué cantidad se espera para la fianza?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+  {
+      "question": "¿Cuál es el importe de la fianza requerida?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+  {
+      "question": "¿Cómo puedo saber qué cantidad debo depositar como fianza?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+  {
+      "question": "¿Qué suma se debe ingresar como fianza?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+  {
+      "question": "¿Cómo puedo calcular el importe de la fianza requerida?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+  {
+      "question": "¿Qué cantidad de dinero se necesita como fianza?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+  {
+      "question": "¿Cuál es el importe de la fianza que debo pagar?",
+      "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. En los contratos de arrendamiento para uso diferente al de vivienda (viviendas de temporada, locales, naves, viviendas cuando la persona arrendataria sea una persona jurídica, etc.), dos mensualidades de renta. Cuando los arrendamientos son de duración inferior a un año, el importe de la fianza será proporcional a la duración tomando como referencia las dos mensualidades de renta.",
+      "code": "11"
+  },
+
+  {
+      "question": "¿De qué plazo dispongo para depositar la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+  {
+      "question": "¿Cuánto tiempo tengo para depositar la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+  {
+      "question": "¿Cuál es el plazo límite para depositar la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+  {
+      "question": "¿Cómo puedo saber cuándo debo depositar la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+  {
+      "question": "¿Cuántos días tengo para realizar el depósito de la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+  {
+      "question": "¿Cuál es la fecha límite para depositar la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+  {
+      "question": "¿De qué plazo dispongo para cumplir con el depósito de la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+  {
+      "question": "¿Cuál es el período de tiempo para depositar la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+  {
+      "question": "¿Cuándo se debe depositar la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+  {
+      "question": "¿Cuál es el plazo para realizar el depósito de la fianza?",
+      "answer": "La fianza debe depositarse en un plazo de dos meses a partir de la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996).\nTranscurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, según la redacción dada por la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los siguientes recargos sobre el importe de la fianza legal:\nel 5% si no supera los 3 meses de demora\nel 10% si la demora es de entre 3 y 6 meses\nel 15% si la demora es de entre 6 y 12 meses\nel 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan generado a partir del plazo establecido para depositar la fianza).\nEn cualquier caso, el importe máximo del recargo por demora (sin incluir los intereses) no puede superar los 1.500 euros.",
+      "code": "10"
+  },
+
+
+  {
+      "question": "¿Cómo puedo actualizar la fianza en caso de cambio de arrendatario?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "¿Qué sucede con la fianza si el contrato es modificado?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "¿Cómo se actualiza la fianza en caso de cambio en las condiciones del arrendamiento?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "¿Cuál es el procedimiento para la renovación de la fianza en un contrato actualizado?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "¿Cómo debo actualizar la fianza cuando hay cambios en el acuerdo de arrendamiento?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "¿Cuál es la forma adecuada de gestionar la fianza en caso de modificaciones del contrato?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "Si cambia el arrendatario, ¿cómo debo proceder con la fianza?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "Cuando se modifica el contrato, ¿qué pasos se deben tomar en relación con la fianza?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "¿Cómo se actualiza la fianza en caso de cambio en los términos del contrato?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "¿Qué se debe hacer con la fianza si hay cambios en el inquilino o las condiciones del arrendamiento?",
+      "answer": "Si se ha firmado un nuevo contrato, es necesario solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, se debe realizar el trámite de actualización de la fianza: enlace al archivo de ayuda de actualización (aún no disponible en el sitio web)",
+      "code": "17"
+  },
+  {
+      "question": "¿Cómo y dónde puedo solicitar la devolución de la fianza?",
+      "answer": "Para tramitar por internet, consulte el tutorial interactivo y el archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. \n Para realizar el trámite presencial, debe acudir a las Cámaras de la Propiedad Urbana, la OAC y el Incasòl (se requiere cita previa). \n Tenga en cuenta que las siguientes personas están obligadas a realizar los trámites en línea. Están obligados los siguientes sujetos (art. 14.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas): \n - Personas jurídicas\n - Entidades sin personalidad jurídica\n - Quienes ejerzan una actividad profesional para la cual se requiera la colegiación obligatoria para los trámites y actuaciones con las administraciones (Administradores de fincas, Agentes de la propiedad inmobiliaria, personas que ejerzan actividades dedicadas al sector inmobiliario, etc.)\n - Los que representen a una persona interesada que esté obligada a relacionarse electrónicamente con la Administración.",
+      "code": "7"
+  },
+  {
+      "question": "¿Cómo solicito la devolución de la fianza y dónde?",
+      "answer": "Para realizar una solicitud de devolución de la fianza, puede seguir el tutorial interactivo y consultar el archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. Si prefiere realizar el trámite de forma presencial, puede dirigirse a las Cámaras de la Propiedad Urbana, la OAC o al Incasòl (se requiere concertar cita previa). Tenga en cuenta que hay requisitos específicos para los trámites en línea y que algunas personas están obligadas a hacerlo de esta manera (como las personas jurídicas y las entidades sin personalidad jurídica).",
+      "code": "7"
+  },
+  {
+      "question": "¿Dónde y cómo puedo solicitar la devolución de la fianza?",
+      "answer": "Puede solicitar la devolución de la fianza mediante el trámite en línea, siguiendo un tutorial interactivo y consultando el archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. También puede optar por realizar el trámite de manera presencial dirigiéndose a las Cámaras de la Propiedad Urbana, la Oficina de Atención Ciudadana (OAC) o el Incasòl (se requiere concertar cita previa). Es importante destacar que algunas personas están obligadas a realizar los trámites en línea, como las personas jurídicas y las entidades sin personalidad jurídica.",
+      "code": "7"
+  },
+  {
+      "question": "¿Qué pasos debo seguir para solicitar la devolución de la fianza y dónde lo hago?",
+      "answer": "Para solicitar la devolución de la fianza, puede utilizar el tutorial interactivo y consultar el archivo de ayuda disponible en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. Si prefiere realizar el trámite de forma presencial, deberá dirigirse a las Cámaras de la Propiedad Urbana, la Oficina de Atención Ciudadana (OAC) o el Incasòl (es necesario concertar cita previa). Es importante destacar que hay requisitos específicos para los trámites en línea, y algunas personas están obligadas a hacerlo de esta manera, como las personas jurídicas y las entidades sin personalidad jurídica.",
+      "code": "7"
+  },
+  {
+      "question": "¿Cómo debo proceder para solicitar la devolución de la fianza y dónde debo hacerlo?",
+      "answer": "Para solicitar la devolución de la fianza, puede seguir las instrucciones del tutorial interactivo y consultar el archivo de ayuda disponible en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. Si opta por la modalidad presencial, debe acudir a las Cámaras de la Propiedad Urbana, la Oficina de Atención Ciudadana (OAC) o el Incasòl (con cita previa). Tenga en cuenta que existen requisitos específicos para los trámites en línea, y que algunas personas están obligadas a hacerlo de esta manera, como las personas jurídicas y las entidades sin personalidad jurídica.",
+      "code": "7"
+  },
+  {
+      "question": "¿Dónde y cómo se puede solicitar la devolución de la fianza?",
+      "answer": "Puede solicitar la devolución de la fianza siguiendo las indicaciones del tutorial interactivo y consultando el archivo de ayuda en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. También tiene la opción de realizar el trámite de manera presencial en las Cámaras de la Propiedad Urbana, la Oficina de Atención Ciudadana (OAC) o el Incasòl (con cita previa). Cabe destacar que hay requisitos específicos para los trámites en línea, y algunas personas están obligadas a hacerlo de esta manera, como las personas jurídicas y las entidades sin personalidad jurídica.",
+      "code": "7"
+  },
+  {
+      "question": "¿Cómo y dónde se puede pedir la devolución de la fianza?",
+      "answer": "Para solicitar la devolución de la fianza, puede consultar el tutorial interactivo y el archivo de ayuda disponibles en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. En caso de que prefiera la modalidad presencial, debe acudir a las Cámaras de la Propiedad Urbana, la Oficina de Atención Ciudadana (OAC) o el Incasòl (es necesario concertar cita previa). Tenga en cuenta que existen requisitos específicos para los trámites en línea, y que algunas personas están obligadas a hacerlo de esta manera, como las personas jurídicas y las entidades sin personalidad jurídica.",
+      "code": "7"
+  },
+  {
+      "question": "¿Cómo puedo solicitar la devolución de la fianza y dónde?",
+      "answer": "Para solicitar la devolución de la fianza, puede seguir el tutorial interactivo y consultar el archivo de ayuda disponible en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. Si prefiere realizar el trámite de forma presencial, debe dirigirse a las Cámaras de la Propiedad Urbana, la Oficina de Atención Ciudadana (OAC) o el Incasòl (es necesario concertar cita previa). Es importante destacar que hay requisitos específicos para los trámites en línea, y algunas personas están obligadas a hacerlo de esta manera, como las personas jurídicas y las entidades sin personalidad jurídica.",
+      "code": "7"
+  },
+  {
+      "question": "¿Qué pasos debo seguir para solicitar la devolución de la fianza y dónde lo hago?",
+      "answer": "Puede solicitar la devolución de la fianza siguiendo las indicaciones del tutorial interactivo y consultando el archivo de ayuda disponible en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. Si opta por la modalidad presencial, deberá acudir a las Cámaras de la Propiedad Urbana, la Oficina de Atención Ciudadana (OAC) o el Incasòl (con cita previa). Tenga en cuenta que hay requisitos específicos para los trámites en línea, y algunas personas están obligadas a hacerlo de esta manera, como las personas jurídicas y las entidades sin personalidad jurídica.",
+      "code": "7"
+  },
+  {
+      "question": "¿Cómo y dónde debo solicitar la devolución de la fianza?",
+      "answer": "Puede solicitar la devolución de la fianza siguiendo el tutorial interactivo y consultando el archivo de ayuda disponible en https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/devolucio-de-fiances/. Si prefiere realizar el trámite de forma presencial, debe acudir a las Cámaras de la Propiedad Urbana, la Oficina de Atención Ciudadana (OAC) o el Incasòl (es necesario concertar cita previa). Es importante destacar que hay requisitos específicos para los trámites en línea, y algunas personas están obligadas a hacerlo de esta manera, como las personas jurídicas y las entidades sin personalidad jurídica.",
+      "code": "7"
+  },
+  {
+      "question": "Què passa si no tinc certificat electrònic?",
+      "answer": "Podeu obtenir informació sobre com obtenir identificació digital a: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. Si no teniu un certificat electrònic i no esteu obligats a tenir-ne un, podeu realitzar els tràmits de forma presencial.",
+      "code": "8"
+  },
+  {
+      "question": "Què passa si no disposo de certificat electrònic?",
+      "answer": "Podeu trobar informació sobre com obtenir una identificació digital a: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. Si no teniu un certificat electrònic i no esteu obligats a tenir-ne un, podeu realitzar els tràmits de forma presencial.",
+      "code": "8"
+  },
+  {
+      "question": "Què ocorre si no tinc un certificat electrònic?",
+      "answer": "Podeu consultar com obtenir identificació digital a: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. Si no en teniu i no esteu obligats a tenir-ne un, podeu fer els tràmits de forma presencial.",
+      "code": "8"
+  },
+  {
+      "question": "Què passa si no tinc un certificat digital?",
+      "answer": "Podeu trobar informació sobre com obtenir una identificació digital a: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. Si no teniu un certificat electrònic i no esteu obligats a tenir-ne un, podeu realitzar els tràmits de forma presencial.",
+      "code": "8"
+  },
+  {
+      "question": "Què passa si no disposo de certificat digital?",
+      "answer": "Podeu consultar com obtenir identificació digital a: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. Si no en teniu i no esteu obligats a tenir-ne un, podeu fer els tràmits de forma presencial.",
+      "code": "8"
+  },
+  {
+      "question": "Què ocorre si no tinc un certificat electrònic?",
+      "answer": "Podeu trobar informació sobre com obtenir una identificació digital a: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. Si no teniu un certificat electrònic i no esteu obligats a tenir-ne un, podeu realitzar els tràmits de forma presencial.",
+      "code": "8"
+  },
+  {
+      "question": "Què passa si no tinc certificat digital?",
+      "answer": "Podeu consultar com obtenir identificació digital a: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. Si no en teniu i no esteu obligats a tenir-ne un, podeu fer els tràmits de forma presencial.",
+      "code": "8"
+  },
+  {
+      "question": "Què ocorre si no tinc un certificat digital?",
+      "answer": "Podeu trobar informació sobre com obtenir una identificació digital a: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. Si no teniu un certificat electrònic i no esteu obligats a tenir-ne un, podeu realitzar els tràmits de forma presencial.",
+      "code": "8"
+  },
+  {
+      "question": "Què passa si no disposo de certificat electrònic?",
+      "answer": "Podeu consultar com obtenir identificació digital a: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. Si no en teniu i no esteu obligats a tenir-ne un, podeu fer els tràmits de forma presencial.",
+      "code": "8"
+  }
+  ]
+}
